@@ -13,7 +13,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #F16501;
+  color: #F16501 !important;
   font-weight: 600;
   margin-bottom: 0;
 }
